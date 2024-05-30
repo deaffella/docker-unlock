@@ -2,11 +2,9 @@
 
 json_content='{
   "registry-mirrors" : [
-    "https://mirror.gcr.io",
-    "https://daocloud.io",
-    "https://c.163.com",
-    "https://huecker.io",
-    "https://registry.docker-cn.com"
+        "https://dockerhub.timeweb.cloud",
+        "https://mirror.gcr.io",
+        "https://huecker.io"
   ]
 }'
 
